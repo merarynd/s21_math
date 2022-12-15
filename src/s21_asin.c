@@ -27,5 +27,3 @@ long double s21_asin(double x) {
   }
   return asin;
 }
-
-//  поменять на наш sqrt только после того, как sqrt будет работать корректно
